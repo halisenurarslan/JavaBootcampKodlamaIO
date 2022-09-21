@@ -1,6 +1,6 @@
 package Week1;
 
-public class PerfectNumber {
+public class PerfectNumbers {
 
 	public static void main(String[] args) {
 		int number = 5;

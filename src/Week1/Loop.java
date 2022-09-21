@@ -1,13 +1,13 @@
 package Week1;
 
-public class LoopDemo {
+public class Loop {
 
 	public static void main(String[] args) {
 		// for 
 		for (int i = 1; i < 10; i++) {
 			System.out.println(i);
 		}
-		System.out.println("For döngüsü");
+		System.out.println("For dongusu");
 		
 		// while 
 		int i = 1;
@@ -15,7 +15,7 @@ public class LoopDemo {
 			System.out.println(i);
 			i++;
 		}
-		System.out.println("While döngüsü");
+		System.out.println("While dongusu");
 
 		// do while 
 		int j = 1;
@@ -24,7 +24,7 @@ public class LoopDemo {
 			j++;
 		} 
 		while (j < 10);
-			System.out.println("Do While döngüsü");
+			System.out.println("Do While dongusu");
 
 	}
 

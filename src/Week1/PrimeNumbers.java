@@ -1,6 +1,6 @@
 package Week1;
 
-public class PrimeNumber {
+public class PrimeNumbers {
 
 	public static void main(String[] args) {
 		int number = 27;
