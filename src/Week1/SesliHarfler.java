@@ -1,6 +1,6 @@
 package Week1;
 
-public class Vowels {
+public class SesliHarfler {
 
 	public static void main(String[] args) {
 		char harf = 'i';
@@ -16,7 +16,7 @@ public class Vowels {
 			System.out.println("Ince - Buyuk sesli harf");
 			break;
 		case 'e', 'i', 'ö', 'ü':
-			System.out.println("Ince - Kucuk asesli harf");
+			System.out.println("Ince - Kucuk sesli harf");
 			break;
 		default:
 			System.out.println("Girilen harf sessiz harftir");
